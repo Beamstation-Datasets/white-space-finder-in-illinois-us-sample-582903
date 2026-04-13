@@ -1,0 +1,12 @@
+{
+  "export_job_id": "86b4e800-5a60-4036-bf8f-d1a89cc5be28",
+  "id_short": 582903,
+  "published_at": "2026-04-13T19:35:00Z",
+  "repo_name": "white-space-finder-in-illinois-us-sample-582903",
+  "sample_asset_name": "beamstation_582903_food_and_drink-us-il_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/582903/beamstation_582903_food_and_drink-us-il_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "bc12b20abb1d0ea3f7e6c11747ff8981da1180bd583974b2f1582c23ddc377da",
+  "sample_size_bytes": 27582,
+  "total_records": 33
+}

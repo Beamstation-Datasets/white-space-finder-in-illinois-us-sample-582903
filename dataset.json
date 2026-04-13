@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Illinois that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Illinois, US",
+  "export_job_id": "86b4e800-5a60-4036-bf8f-d1a89cc5be28",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 582903,
+  "location_name": "Illinois",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-illinois-us-sample-582903",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/582903/beamstation_582903_food_and_drink-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 9.09,
+  "sample_records": 3,
+  "sample_sha256": "bc12b20abb1d0ea3f7e6c11747ff8981da1180bd583974b2f1582c23ddc377da",
+  "sample_size_bytes": 27582,
+  "total_records": 33,
+  "updated_at": "2026-04-07T15:47:55.918015+00:00"
+}

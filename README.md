@@ -1,6 +1,6 @@
 # White Space Finder in Illinois, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `582903` |
 | Location | Illinois |
 | Category | Restaurants |
-| Full dataset size | 28 records |
-| Free sample size | 2 records (7.14%) |
-| Last export | 2026-04-22T01:06:33.547023+00:00 |
+| Full dataset size | 18 records |
+| Free sample size | 1 records (5.56%) |
+| Last export | 2026-04-29T04:10:52.717068+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-illinois-us-sample-582903/releases/download/sample-latest/beamstation_582903_food_and_drink-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
